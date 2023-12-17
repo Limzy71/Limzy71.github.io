@@ -1,0 +1,8 @@
+@font-face {
+  font-family:"Rubik";
+  src: url(/fontface/Rubik-Black.ttf) format('truetype');
+}
+
+body {
+  font-family: "Rubik", 'Times New Roman',Arial, sans-serif;
+}
