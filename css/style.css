@@ -1,8 +1,31 @@
 @font-face {
-  font-family:"Rubik";
-  src: url(/fontface/Rubik-Black.ttf) format('truetype');
+  font-family: "Rubik";
+  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
 }
 
-body {
-  font-family: "Rubik", 'Times New Roman',Arial, sans-serif;
+@font-face {
+  font-family: "SinkinSans";
+  src: url(/fontface/SinkinSans-400Regular.otf) format("opentype");
+}
+
+.nav {
+  font-family: "Rubik", "Times New Roman", Arial, sans-serif;
+}
+
+.pertama {
+  color: goldenrod;
+}
+
+.about {
+  font-family: "Rowdies", sans-serif;
+}
+
+.men {
+  font-family: "Rubik";
+  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
+}
+
+.maps {
+  font-family: "Rubik";
+  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
 }
