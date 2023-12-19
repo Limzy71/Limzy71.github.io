@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Rubik";
-  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
+  src: url(../fontface/Rubik-Bold.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "SinkinSans";
-  src: url(/fontface/SinkinSans-400Regular.otf) format("opentype");
+  src: url(../fontface/SinkinSans-400Regular.otf) format("opentype");
 }
 
 .nav {
@@ -16,16 +16,34 @@
   color: goldenrod;
 }
 
+/* about start */
 .about {
   font-family: "Rowdies", sans-serif;
 }
+/* about end */
 
-.men {
-  font-family: "Rubik";
-  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
-}
-
+/* location start */
 .maps {
   font-family: "Rubik";
-  src: url(/fontface/Rubik-Bold.ttf) format("truetype");
+  src: url(../fontface/Rubik-Bold.ttf) format("truetype");
 }
+/* location end */
+
+/* Menu start*/
+.men {
+  font-family: "Rubik";
+  src: url(../fontface/Rubik-Bold.ttf) format("truetype");
+}
+
+.harga {
+  margin-top: 51px;
+}
+
+.check {
+  margin-top: -3px;
+}
+
+.harga-2 {
+  margin-top: 26px;
+}
+/* menu end */
