@@ -22,13 +22,6 @@
 }
 /* about end */
 
-/* location start */
-.maps {
-  font-family: "Rubik";
-  src: url(../fontface/Rubik-Bold.ttf) format("truetype");
-}
-/* location end */
-
 /* Menu start*/
 .men {
   font-family: "Rubik";
@@ -47,3 +40,10 @@
   margin-top: 26px;
 }
 /* menu end */
+
+/* location start */
+.text-maps {
+  font-family: "Rubik";
+  src: url(../fontface/Rubik-Bold.ttf) format("truetype");
+}
+/* location end */
